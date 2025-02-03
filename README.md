@@ -4,10 +4,10 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Machine Learning Practitioner
 -----------------------------
 
-Highly motivated Electrical Engineering student at the University of British Columbia, specializing in deep learning and reinforcement learning. Successfully applied machine learning in real-world settings through 16 months of impactful co-op experiences, including optimizing mine operations and conducting research in power distribution systems.
+Driven by a passion for solving real-world challenges using machine learning, deep learning, and reinforcement learning. Always exploring new ways to turn data into impactful solutions.
 
-*   🌱 I’m currently learning Vision Transformers
-*   🔭 I’m currently working on voice activated AI switch
+*   🌱 Currently diving into Vision Transformers to enhance image understanding.
+*   🔭 Building an end-to-end real-time traffic anomaly detection system — transforming data into actionable insights in real time.
 
 ### Skills
 <p align="left">
